@@ -1,0 +1,92 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+/* .navstyling {
+    background-color: #0b47de;
+    min-height: 70px;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+} */
+
+.navstyling {
+    border: 1px double #2D2D34;
+    background-color: #7f55d4;
+    border-radius: 25px;
+}
+
+.homestyling {
+    min-height: 330px;
+    border-radius: 26px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+img {
+    border: 2px solid #2D2D34;
+}
+
+h5 {
+    color: #2D2D34;
+}
+
+.githubstyle {
+    background-color: #F1E4E8;
+    border-radius: 22px;
+    border: 1px solid #2D2D34;
+}
+
+.youtubestyle {
+    background-color: #F1E4E8;
+    border-radius: 22px;
+    border: 1px solid #2D2D34;
+}
+
+.youtubestyle>a {
+    color: #2D2D34;
+    text-decoration: none;
+}
+
+.githubstyle>a {
+    color: #2D2D34;
+    text-decoration: none;
+}
+
+.linkedinstyle {
+    background-color: #F1E4E8;
+    border: 1px solid #2D2D34;
+    border-radius: 22px;
+}
+
+.linkedinstyle>a {
+    text-decoration: none;
+    color: #2D2D34;
+}
+
+.emailstyle {
+    background-color: #F1E4E8;
+    border-radius: 22px;
+    border: 1px solid #2D2D34;
+}
+
+.emailstyle>a {
+    color: #2D2D34;
+    text-decoration: none;
+}
+
+.footer {
+    margin-top: 25px;
+    background-color: #7f55d4;
+    border: 1px double #2D2D34;
+    height: 130px;
+    border-radius: 22px;
+}
+
+.homestyling>col-sm-5 col-12 text-center>img {
+    border-radius: 80px;
+    box-shadow: #653c48;
+}
